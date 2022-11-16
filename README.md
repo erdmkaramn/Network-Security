@@ -114,9 +114,11 @@ Router 0
 **IPv6 Kısmı**
 --------------
 <br>
+
 **IPv6 Interface Configuration (Router 0)**
 <br>
-![image](https://user-images.githubusercontent.com/56456793/202257128-374e5695-7b3f-45ae-956b-db9df5338aa7.png)
+![image](https://user-images.githubusercontent.com/56456793/202258828-ea9ae416-ae2a-4440-bd83-dc2328b8733f.png)
+
 
 <br>
 **IPv6 Interface Configuration (Router 1)**
@@ -128,18 +130,50 @@ Ping Testi
 <br>
 ![image](https://user-images.githubusercontent.com/56456793/202257902-32422427-0183-4316-a4c3-320a3c312f3c.png)
 <br>
-**Iv6 Interface Configuration (Router 2)**
+**IPv6 Interface Configuration (Router 2)**
 <br>
 
 ![image](https://user-images.githubusercontent.com/56456793/202258196-d8f06afd-3515-4712-8544-a515eb7592df.png)
 
+**OSPF**
+<br>
+**OSPF IPv6 (Router 0)**
+<br>
+![image](https://user-images.githubusercontent.com/56456793/202259289-98f57dad-15c7-48c1-a0f8-03cc23685fbb.png)
+
+<br>
+
+**OSPF IPv6 (Router 1)**
+<br>
+
+![image](https://user-images.githubusercontent.com/56456793/202259585-69805558-d4cf-47d7-acf3-1bd1b316b451.png)
+
+<br>
+OSPF kontrolu
+![image](https://user-images.githubusercontent.com/56456793/202260216-1ae49618-5c7e-42b8-a271-51110c57cfee.png)
+
+Ping kontrolü
+![image](https://user-images.githubusercontent.com/56456793/202259836-81745bf0-5eca-49c5-a8e1-3fae95d7fd6f.png)
 
 
 
+**OSPF IPv6 (Router 2)**
+
+![image](https://user-images.githubusercontent.com/56456793/202260454-32d2b07d-27ed-4981-8237-70b950c9e262.png)
+
+**DNS AYARLANMASI**
+
+<br>
+DNS(udp 53) Server’ının IPv6 adresi farklı networklerde bulunan Laptop0 ve PC0 ın DNS Serverine verildi. Daha sonra DNS>Services>DNS kısmına WEB serverinin IP’si aşağıdaki gibi verildi 
 
 
+![image](https://user-images.githubusercontent.com/56456793/202260735-f9db8425-18fb-44d1-bc26-8afd8be45aab.png)
 
 
+**Access-List ve Portların kapatılması**
+
+![image](https://user-images.githubusercontent.com/56456793/202261077-686e4995-eb47-4b46-9172-96318a2423dd.png)
 
 
+![image](https://user-images.githubusercontent.com/56456793/202260905-c6c5c8a0-678d-41a9-9289-fc5f042077d3.png)
 
