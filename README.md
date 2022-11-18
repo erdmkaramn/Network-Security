@@ -22,7 +22,7 @@
 <br>- Laptop-PT (1 adet)
 <br>
 
-*NOT:* Proje yapım aşamasında testler her aşamada her cihaz için yapılmıştır. Bu sunumda örnek olması açısından sadece Router1 için ekran görüntüleri yer almaktadır
+*NOT:* Proje yapım aşamasında testler her aşamada her cihaz için yapılmıştır. Bu sunumda örnek olması açısından sadece Router1-Area 1 için ekran görüntüleri yer almaktadır
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -177,3 +177,7 @@ DNS(udp 53) Server’ının IPv6 adresi farklı networklerde bulunan Laptop0 ve 
 
 ![image](https://user-images.githubusercontent.com/56456793/202260905-c6c5c8a0-678d-41a9-9289-fc5f042077d3.png)
 
+**SONUÇ**
+-----------------------------------------------------------------------------------------------------------------------------------------
+Routerlar arasında OSPF Routing Protokolü ie iletişim sağlandı.<br>
+Laptop ve PC cihazlar DNS ve WEB serverlerine IPv4 ve IPv6 protokolleriyle sadece servis portları ile erişim sağlandı.<br>
