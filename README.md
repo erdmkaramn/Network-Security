@@ -150,7 +150,7 @@ Ping Testi
 
 <br>
 OSPF kontrolu
-![image](https://user-images.githubusercontent.com/56456793/202260216-1ae49618-5c7e-42b8-a271-51110c57cfee.png)
+![image](https://user-images.githubusercontent.com/56456793/202694835-3e51c782-ddb2-4846-ab24-b67ec427941f.png)
 
 Ping kontrolü
 ![image](https://user-images.githubusercontent.com/56456793/202259836-81745bf0-5eca-49c5-a8e1-3fae95d7fd6f.png)
